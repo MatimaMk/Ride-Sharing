@@ -20,6 +20,9 @@ The **Ride-Sharing System** is a C# Console Application designed to facilitate s
   - Requests are denied if a passenger lacks sufficient balance, with a standard ride cost is R20. any wallet with less than R20 wont request.
   - Calculates ride cost based on distance (randomized distance).
   - Fares are deducted from the passenger's wallet and credited to the driver's earnings after ride completion (completion of ride by the driver).
+**Driver stats**
+- Driver can see total amount earned on the trip
+- driver can see number of total trips completed thus far, after completing every trip.
 
 - **⭐ Rating System**
   - Passengers can rate drivers after ride is completed.
