@@ -1,0 +1,14 @@
+C:\Users\Moloko Kabelo\source\repos\Ride-Sharing\Ride-Sharing\obj\Debug\net8.0\Ride-Sharing.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Moloko Kabelo\source\repos\Ride-Sharing\Ride-Sharing\obj\Debug\net8.0\Ride-Sharing.AssemblyInfoInputs.cache
+C:\Users\Moloko Kabelo\source\repos\Ride-Sharing\Ride-Sharing\obj\Debug\net8.0\Ride-Sharing.AssemblyInfo.cs
+C:\Users\Moloko Kabelo\source\repos\Ride-Sharing\Ride-Sharing\obj\Debug\net8.0\Ride-Sharing.csproj.CoreCompileInputs.cache
+C:\Users\Moloko Kabelo\source\repos\Ride-Sharing\Ride-Sharing\bin\Debug\net8.0\Ride-Sharing.exe
+C:\Users\Moloko Kabelo\source\repos\Ride-Sharing\Ride-Sharing\bin\Debug\net8.0\Ride-Sharing.deps.json
+C:\Users\Moloko Kabelo\source\repos\Ride-Sharing\Ride-Sharing\bin\Debug\net8.0\Ride-Sharing.runtimeconfig.json
+C:\Users\Moloko Kabelo\source\repos\Ride-Sharing\Ride-Sharing\bin\Debug\net8.0\Ride-Sharing.dll
+C:\Users\Moloko Kabelo\source\repos\Ride-Sharing\Ride-Sharing\bin\Debug\net8.0\Ride-Sharing.pdb
+C:\Users\Moloko Kabelo\source\repos\Ride-Sharing\Ride-Sharing\obj\Debug\net8.0\Ride-Sharing.dll
+C:\Users\Moloko Kabelo\source\repos\Ride-Sharing\Ride-Sharing\obj\Debug\net8.0\refint\Ride-Sharing.dll
+C:\Users\Moloko Kabelo\source\repos\Ride-Sharing\Ride-Sharing\obj\Debug\net8.0\Ride-Sharing.pdb
+C:\Users\Moloko Kabelo\source\repos\Ride-Sharing\Ride-Sharing\obj\Debug\net8.0\Ride-Sharing.genruntimeconfig.cache
+C:\Users\Moloko Kabelo\source\repos\Ride-Sharing\Ride-Sharing\obj\Debug\net8.0\ref\Ride-Sharing.dll

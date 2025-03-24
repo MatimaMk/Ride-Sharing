@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "Zefm8kPz08k=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Moloko Kabelo\\source\\repos\\Ride-Sharing\\Ride-Sharing\\Ride-Sharing.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Moloko Kabelo\\.nuget\\packages\\microsoft.net.sdk.compilers.toolset\\9.0.201\\microsoft.net.sdk.compilers.toolset.9.0.201.nupkg.sha512",
+    "C:\\Users\\Moloko Kabelo\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\8.0.14\\microsoft.windowsdesktop.app.ref.8.0.14.nupkg.sha512",
+    "C:\\Users\\Moloko Kabelo\\.nuget\\packages\\microsoft.netcore.app.ref\\8.0.14\\microsoft.netcore.app.ref.8.0.14.nupkg.sha512",
+    "C:\\Users\\Moloko Kabelo\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\8.0.14\\microsoft.aspnetcore.app.ref.8.0.14.nupkg.sha512",
+    "C:\\Users\\Moloko Kabelo\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\8.0.14\\microsoft.netcore.app.host.win-x64.8.0.14.nupkg.sha512"
+  ],
+  "logs": []
+}
